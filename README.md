@@ -1,5 +1,5 @@
 #DrumKit
-> Title: DrumKit
+> DrumKit
 > Live:  https://aromero18020.github.io/DrumKit/
 
 ## Table of Contents
